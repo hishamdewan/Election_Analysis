@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore following file
+PyPoll_.py
+Python_practice_.py
+
 # Distribution / packaging
 .Python
 build/
