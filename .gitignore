@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Ignore following file
-PyPoll_.py
-Python_practice_.py
+PyPoll.py
+Python_practice.py
 
 # Distribution / packaging
 .Python
